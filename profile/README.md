@@ -1,59 +1,18 @@
-# Legacy Revival Studio
+# Next State Studio
 
-Reviving old software with care.
+Migration · Modernization · Stabilization
 
-Legacy Revival Studio restores aging software systems so they can run again on modern infrastructure — without erasing their original logic, structure, or history.
+We help operating businesses safely evolve to their next state.
 
-We believe software should not disappear simply because technology changes.
+### Core Focus
 
-## What We Do
+- Platform & data migration
+- Legacy system modernization
+- Production stabilization
+- Infrastructure automation
+- Technical assessment
 
-- Legacy PHP recovery
-- Database restoration
-- Runtime modernization
-- Docker-based resurrection
-- Dependency repair
-- Admin tool reconstruction
-- Historical behavior preservation
+---
 
-## Engineering Philosophy
-
-> Revive first. Rewrite only when necessary.
-
-We focus on recovery before replacement.
-
-The goal is not to redesign history,
-but to make forgotten systems runnable again.
-
-## Technical Focus
-
-- PHP
-- Node.js
-- MySQL / PostgreSQL / SQLite
-- Docker
-- Git & GitHub
-- Markdown-based archival workflows
-- Legacy admin systems
-- Internal business tools
-
-## Experience
-
-- 20+ years in web systems
-- Specialized in legacy software recovery
-- Focused on preservation-oriented engineering
-- Independent restoration studio based in Korea
-
-## Website
-
-https://etern.co.kr
-
-## Archive Philosophy
-
-Old software still contains:
-
-- operational knowledge
-- business history
-- human decisions
-- irreplaceable data
-
-Preserving runnable systems is also preserving digital history.
+> People don't buy technology.
+> They buy business continuity.
